@@ -51,6 +51,6 @@ The highest score is saved locally in a text file.
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License.
