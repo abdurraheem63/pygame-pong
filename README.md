@@ -1,4 +1,4 @@
-# 🏓 Pygame Pong
+# Pygame Pong
 
 A simple single-player Pong game built using Python and Pygame.
 
@@ -8,7 +8,7 @@ The highest score is saved locally in a text file.
 
 ---
 
-## 🎮 Gameplay
+## Gameplay
 
 - Single-player
 - Ball collision with walls and paddle
@@ -18,13 +18,13 @@ The highest score is saved locally in a text file.
 
 ---
 
-## 📸 Screenshot
+## Screenshot
 
 ![Gameplay](assets/screenshot.png)
 
 ---
 
-## 🚀 Installation
+## Installation
 
 1. Clone the repository:
 
@@ -44,7 +44,7 @@ The highest score is saved locally in a text file.
 
 ---
 
-## 🛠 Built With
+## Built With
 
 - Python
 - Pygame
